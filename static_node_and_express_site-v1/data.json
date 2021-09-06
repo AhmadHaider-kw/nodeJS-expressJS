@@ -1,0 +1,45 @@
+{
+    "projects":[
+        {
+            "id":1,
+            "project_name":"A random quote generator",
+            "description":"Using JavaScript to Displays quotations on a page",
+            "technologies":["HTML","JavaScript"],
+            "live_link":"https://ahmadhaider-kw.github.io/TechDegree-project/",
+            "github_link":"https://github.com/AhmadHaider-kw/TechDegree-project",
+            "image_urls":["/static/images/pj1-1.PNG","/static/images/pj1-2.PNG"]
+        },{
+            "id":2,
+            "project_name":"Data Pagination and Filtering",
+            "description":"Using JavaScript to  Pagination and Filtering",
+            "technologies":["HTML","JavaScript"],
+            "live_link":"https://ahmadhaider-kw.github.io/Tech-degree-project/",
+            "github_link":"https://github.com/AhmadHaider-kw/Tech-degree-project",
+            "image_urls":["/static/images/pj2-1.PNG","/static/images/pj2-2.PNG"]
+        },{
+            "id":3,
+            "project_name":"Interactive Form",
+            "description":"Using JavaScript to enhance an interactive registration form ",
+            "technologies":["HTML","JavaScript"],
+            "live_link":"https://ahmadhaider-kw.github.io/tech-degree---project-3/",
+            "github_link":"https://github.com/AhmadHaider-kw/tech-degree---project-3",
+            "image_urls":["/static/images/pj3-1.PNG","/static/images/pj3-2.PNG"]
+        },{
+            "id":4,
+            "project_name":"OOP Game Show App",
+            "description":"Using JavaScript to OOP Game Show App ",
+            "technologies":["HTML","JavaScript"],
+            "live_link":"https://ahmadhaider-kw.github.io/TechDegree-project-4/",
+            "github_link":"https://github.com/AhmadHaider-kw/TechDegree-project-4",
+            "image_urls":["/static/images/pj4-1.PNG","/static/images/pj4-2.PNG"]
+        },{
+            "id":5,
+            "project_name":"Public API Requests",
+            "description":"Using JavaScript to Public API Requests",
+            "technologies":["HTML","JavaScript"],
+            "live_link":"https://ahmadhaider-kw.github.io/TechDegree-project-5/",
+            "github_link":"https://github.com/AhmadHaider-kw/TechDegree-project-5",
+            "image_urls":["/static/images/pj5-1.PNG","/static/images/pj5-2.PNG"]
+        }
+    ]
+}

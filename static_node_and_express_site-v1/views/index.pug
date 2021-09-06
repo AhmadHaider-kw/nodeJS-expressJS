@@ -1,0 +1,22 @@
+extends layout.pug
+
+block content
+
+  article.portfolio-intro
+
+    h1 My Portfolio
+
+    p  Hello, I'm Ahmad. I work as electrical and electronics engineer, and I would like to be full stack javascript developer 
+
+
+  article.portfolio-project-thumbs
+    .projects-box.box.grid
+
+      each project in projects 
+   
+
+        .cell
+          a(href=`/project/${project.id}`)
+            img.thumbnail(src=`${project.image_urls[0]}`, alt=`${project.project_name}`)
+            h5=project.project_name
+
